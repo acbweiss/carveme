@@ -108,7 +108,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'License :: OSI Approved :: Apache Software License',
     ],
-    setup_requires=['setuptools_scm']
+    # setup_requires=['setuptools_scm']
     #    test_suite='tests',
     #    tests_require=test_requirements,
 )
